@@ -153,7 +153,7 @@ const Home: React.FC = () => {
               },
               {
                 icon: Monitor,
-                title: 'Shopify Devalopment',
+                title: 'Shopify Development',
                 description: "Creating high-performing Shopify stores tailored to boost your online business.",
                 features: ['Custom Store Design', 'Theme Devalopment & optimization', 'Speed & SEO Enhancements']
               },
